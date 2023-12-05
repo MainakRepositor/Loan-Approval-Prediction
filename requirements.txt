@@ -1,9 +1,6 @@
 seaborn
 streamlit
-streamlit.components
 numpy
 matplotlib
 pandas
 scikit_learn
-pickle
-shap
