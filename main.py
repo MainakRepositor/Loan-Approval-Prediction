@@ -8,7 +8,7 @@ from web_functions import load_data
 
 # Configure the app
 st.set_page_config(
-    page_title = 'Customer Churn Detection',
+    page_title = 'Loan Approval Estimation',
     page_icon = 'dollar',
     layout = 'wide',
     initial_sidebar_state = 'auto'
