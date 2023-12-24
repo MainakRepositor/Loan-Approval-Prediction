@@ -7,7 +7,7 @@ def app():
     """This function create the home page"""
     
     # Add title to the home page
-    st.title("Customer Churn Predictor")
+    st.title("Loan Approval Estimation")
 
     # Add image to the home page
     st.image("./images/home.png")
